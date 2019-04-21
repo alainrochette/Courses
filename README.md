@@ -50,3 +50,4 @@
 * ### Pattern Recognition
 * ### Mobile Robots
 
+# Courses
